@@ -1,0 +1,22 @@
+
+# 🔹 Aula 02 — Estruturas de Repetição
+
+### Atividade 01
+Utilizar os laços `for` e `while` para repetir uma mensagem 10 vezes.
+
+### Atividade 02
+Utilizar um `for` para mostrar os números de 0 até 49 junto com a palavra "ifpb".
+
+### Atividade 03
+Pedir o nome e a idade do usuário e mostrar uma mensagem utilizando essas informações.
+
+### Atividade 04
+Pedir 10 números ao usuário e calcular a soma deles.
+
+### Atividade 05
+Pedir 10 números e realizar a multiplicação deles.
+
+### Atividade 06
+Receber uma idade e utilizar uma estrutura de repetição para mostrar os valores até a idade informada.
+
+---

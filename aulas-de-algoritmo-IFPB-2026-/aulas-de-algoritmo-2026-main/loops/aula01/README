@@ -1,0 +1,23 @@
+
+# 🔹 Aula 01 — Variáveis e Condições
+
+Nesta aula foram realizados exercícios para praticar variáveis, condições e operadores ternários.
+
+### Atividade 01
+Criar um programa que receba o ano de nascimento e o ano atual, calcule a idade e classifique a pessoa de acordo com sua idade.
+
+### Atividade 02
+Criar um programa que receba três lados de um triângulo e informe se ele é:
+
+- Equilátero
+- Isósceles
+- Escaleno
+
+### Revisão
+Exercício utilizando operador ternário para classificar:
+
+- Idade
+- Sexo
+- Beleza
+
+---

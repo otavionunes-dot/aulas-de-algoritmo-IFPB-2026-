@@ -1,0 +1,31 @@
+------------------------------------Questão 1 – 25 PONTOS---------------------------------------|
+Escreva um programa em JavaScript que utilize um laço for para imprimir os números de 1         |
+até 10 na tela. Pergunta: O que acontece se você mudar o valor inicial da variável de controle  |
+para 5?                                                                                         |
+                                                                                                |
+                                                                                                |
+------------------------------------Questão 2 – 25 PONTOS---------------------------------------|
+Crie um programa em JavaScript que peça ao usuário um número inteiro positivo (use prompt)      |
+e utilize um laço for para mostrar a tabuada desse número de 1 até 10. Exemplo esperado         |
+(se o número for 3):                                                                            |
+3 x 1 = 3                                                                                       |
+3 x 2 = 6                                                                                       |
+...                                                                                             |
+3 x 10 = 30                                                                                     |
+                                                                                                |
+                                                                                                |
+------------------------------------Questão 3 – 25 PONTOS---------------------------------------|
+Faça um programa em JavaScript que peça ao usuário um número e utilize um laço while            |
+para contar de 1 até esse número, mostrando cada valor na tela. Pergunta: O que acontece        |
+se o usuário digitar o número 0?                                                                |
+                                                                                                |
+                                                                                                |
+------------------------------------Questão 4 – 25 PONTOS---------------------------------------|
+Escreva um programa em JavaScript que peça ao usuário uma senha (use prompt) e só               |
+termine quando a senha correta for digitada. A senha correta deve ser definida no início do     |
+programa, por exemplo:                                                                          |
+let senhaCorreta = "1234";                                                                      |
+Pergunta: Explique por que o laço while é adequado para esse tipo de problema.                  |
+                                                                                                |
+                                                                                                |
+------------------------------------------------------------------------------------------------|
